@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NationalParks", "NationalParks\NationalParks.csproj", "{DB485F05-EC57-4A44-8DF1-6E310B7D4018}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB485F05-EC57-4A44-8DF1-6E310B7D4018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB485F05-EC57-4A44-8DF1-6E310B7D4018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB485F05-EC57-4A44-8DF1-6E310B7D4018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB485F05-EC57-4A44-8DF1-6E310B7D4018}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F93FA170-FD0B-4915-B895-3A1564EA6A30}
+	EndGlobalSection
+EndGlobal

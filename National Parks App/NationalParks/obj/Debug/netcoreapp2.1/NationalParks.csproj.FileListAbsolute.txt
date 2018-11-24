@@ -1,0 +1,11 @@
+C:\Users\Brandon Batel\Capstone\c-module-2-capstone-team-0\NationalParks\bin\Debug\netcoreapp2.1\NationalParks.deps.json
+C:\Users\Brandon Batel\Capstone\c-module-2-capstone-team-0\NationalParks\bin\Debug\netcoreapp2.1\NationalParks.runtimeconfig.json
+C:\Users\Brandon Batel\Capstone\c-module-2-capstone-team-0\NationalParks\bin\Debug\netcoreapp2.1\NationalParks.runtimeconfig.dev.json
+C:\Users\Brandon Batel\Capstone\c-module-2-capstone-team-0\NationalParks\bin\Debug\netcoreapp2.1\NationalParks.dll
+C:\Users\Brandon Batel\Capstone\c-module-2-capstone-team-0\NationalParks\bin\Debug\netcoreapp2.1\NationalParks.pdb
+C:\Users\Brandon Batel\Capstone\c-module-2-capstone-team-0\NationalParks\obj\Debug\netcoreapp2.1\NationalParks.csprojAssemblyReference.cache
+C:\Users\Brandon Batel\Capstone\c-module-2-capstone-team-0\NationalParks\obj\Debug\netcoreapp2.1\NationalParks.csproj.CoreCompileInputs.cache
+C:\Users\Brandon Batel\Capstone\c-module-2-capstone-team-0\NationalParks\obj\Debug\netcoreapp2.1\NationalParks.AssemblyInfoInputs.cache
+C:\Users\Brandon Batel\Capstone\c-module-2-capstone-team-0\NationalParks\obj\Debug\netcoreapp2.1\NationalParks.AssemblyInfo.cs
+C:\Users\Brandon Batel\Capstone\c-module-2-capstone-team-0\NationalParks\obj\Debug\netcoreapp2.1\NationalParks.dll
+C:\Users\Brandon Batel\Capstone\c-module-2-capstone-team-0\NationalParks\obj\Debug\netcoreapp2.1\NationalParks.pdb
